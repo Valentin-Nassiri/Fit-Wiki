@@ -1,0 +1,29 @@
+.btn-blue {
+	background-color: black;
+	padding: 12px 17px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: 'police';
+	font-size: taille (ex: 20)px;
+	color: white;
+}
+.btn-yop {
+	background-color: none;
+	padding: 12px 17px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: 'police';
+	font-size: taille (ex: 20)px;
+	color: black;
+	text-decoration: underline;
+}
+.btn-blue:hover {
+	text-decoration: underline;
+	background-color: grey;
+	color: #303234;
+}
+.btn-yop:hover {
+	text-decoration: underline;
+	background-color: none;
+	color:black;
+}
